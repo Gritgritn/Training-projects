@@ -2,4 +2,4 @@
 
 Таймер ведёт обратный отсчёт до времени указанного в script.js.
 
-![Timer](/preview.jpg)
+![Timer](preview.jpg)
